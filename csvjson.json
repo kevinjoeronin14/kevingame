@@ -8,7 +8,7 @@
     "nav": "Press 1 to walk to the room and 2 to run",
     "die": 0,
     "win": 0,
-    "stranger": 1
+    "stranger": 0
   },
   {
     "id": 2,
